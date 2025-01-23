@@ -10,7 +10,7 @@
         "pathMode": "open-api"
       },
       "get": {
-        "summary": "New Route",
+        "summary": "New Route - test github commit",
         "description": "",
         "x-zuplo-route": {
           "corsPolicy": "none",
